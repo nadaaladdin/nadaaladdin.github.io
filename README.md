@@ -1,4 +1,4 @@
-# Nada Aladdin Abdelfatah
+# Nada Alaaeldin Abdalfattah (Nada Aladdin)
 -------------------------------
 
 ## Education 
@@ -75,10 +75,11 @@ Developed a multifunctional task management system, which included features such
               
           - Parallel Programming:
               OpenMP for parallelizing code in C.
+              
+          - Mendix Rapid Application Developer (RAD) Certification:
+              Certificate Number: 88123.
 
 ------------------------------------
 ## References: 
 Available upon request
 
-
-              
