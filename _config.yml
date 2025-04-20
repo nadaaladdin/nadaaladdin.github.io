@@ -1,4 +1,5 @@
-title: "Nada Aladdin"
-description: Computer Engineering
-theme: jekyll-theme-minimal
+title: "🌱 Nada Aladdin"
 logo: /assets/img/nadaladdin.png
+description: Computer Engineering
+#show_downloads: true
+theme: jekyll-theme-minimal
