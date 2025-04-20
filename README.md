@@ -1,16 +1,21 @@
 # Nada Alaaeldin Abdalfattah (Nada Aladdin)
 -------------------------------
 
-## Education 
+## 👋 Hi, I'm Nada!
+-------------------------------
 
-**Master of Science** (M.S.) in **Computer Engineering** Jan 2022 - Feb 2025
+## 🎓 Education
+
+**Master of Science (M.S.) in Computer Engineering**  
+*Jan 2022 - Feb 2025*  
 Jordan University of Science and Technology (JUST)
 
-**Bachelor of Science** (B.S.) in **Computer Engineering** Sep 2017 - Feb 2022
+**Bachelor of Science (B.S.) in Computer Engineering**  
+*Sep 2017 - Feb 2022*  
 Jordan University of Science and Technology (JUST)
 
 -------------------------------
-## Projects:
+## 💻 Projects
 
 - **Classification of Reconnaissance Attacks in IoT Networks Using the CICIoT2023 Dataset by Leveraging Machine Learning**, Advanced Operating Systems Project - 2024 :
   Objective: Enhanced the detection and classification of Reconnaissance (Recon) attacks using machine learning techniques with the CICIoT2023 dataset.
@@ -40,7 +45,7 @@ Developed a multifunctional task management system, which included features such
 • Impact: Aims to reduce medical errors, decrease case fatality rates, and provide peace of mind for both patients and caregivers by ensuring medications are taken as prescribed.
 
 -------------------------------
-## Research Interests:
+## 📝 Research Interests
 
 - Non-Volatile Main Memory
 - Computer Architecture
@@ -53,7 +58,7 @@ Developed a multifunctional task management system, which included features such
 - Deep Learning
 
 -------------------------------
-## Skills:
+## 💡 Skills
 
           - Programming Languages: 
               C++, C, C#, Python, Java, Verilog, VHDL.
@@ -80,8 +85,12 @@ Developed a multifunctional task management system, which included features such
               Certificate Number: 88123.
 
 ------------------------------------
+## 📄 References
 
-<h3>🔗 Connect with me</h3>
+Available upon request
+
+
+## 🔗 Connect with Me
 
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/nadaaladdin" target="_blank">
@@ -93,7 +102,6 @@ Developed a multifunctional task management system, which included features such
   </a>
 </div>
 
+## 👤 About Me
 
-## References: 
-Available upon request
-
+I'm a Computer Engineering graduate with a passion for software development. I enjoy working on projects that combine my technical skills with problem-solving. I'm always eager to learn new technologies and contribute to innovative solutions.
