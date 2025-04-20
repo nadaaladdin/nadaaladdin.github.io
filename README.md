@@ -1,7 +1,8 @@
 # Nada Alaaeldin Abdalfattah (Nada Aladdin)
 -------------------------------
-
-## 👋 Hi, I'm Nada!
+<head>
+  <title>👋 Hi, I'm Nada! | My Portfolio</title>
+</head>
 -------------------------------
 
 ## 🎓 Education
@@ -102,6 +103,7 @@ Available upon request
   </a>
 </div>
 
+----------------------------------
 ## 👤 About Me
 
 I'm a Computer Engineering graduate with a passion for software development. I enjoy working on projects that combine my technical skills with problem-solving. I'm always eager to learn new technologies and contribute to innovative solutions.
