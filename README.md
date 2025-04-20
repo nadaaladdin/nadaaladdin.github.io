@@ -83,14 +83,15 @@ Developed a multifunctional task management system, which included features such
 
 <h3>🔗 Connect with me</h3>
 
-<a href="https://github.com/nadaaladdin" target="_blank">
+<a href="https://github.com/nadaaladdin" target="_blank" style="display: inline-block; margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub" width="30" />
 </a>
 
-<a href="https://www.linkedin.com/in/nada-aladdin-ba70021b0/" target="_blank">
+<a href="https://www.linkedin.com/in/nada-aladdin-ba70021b0/" target="_blank" style="display: inline-block; margin-right: 10px;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="30" />
 </a>
--------------------------------------
+
+
 ## References: 
 Available upon request
 
