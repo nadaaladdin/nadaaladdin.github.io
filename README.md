@@ -1,7 +1,7 @@
 # Nada Alaaeldin Abdalfattah (Nada Aladdin)
 -------------------------------
 
-## 👋 Hi, I'm Nada! | My Portfolio
+## 👋 Hi, I'm Nada!
 
 -------------------------------
 
