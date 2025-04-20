@@ -1,8 +1,8 @@
 # Nada Alaaeldin Abdalfattah (Nada Aladdin)
 -------------------------------
-<head>
-  <title>👋 Hi, I'm Nada! | My Portfolio</title>
-</head>
+
+## 👋 Hi, I'm Nada! | My Portfolio
+
 -------------------------------
 
 ## 🎓 Education
