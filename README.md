@@ -107,3 +107,5 @@ Available upon request
 ## 👤 About Me
 
 I'm a Computer Engineering graduate with a passion for software development. I enjoy working on projects that combine my technical skills with problem-solving. I'm always eager to learn new technologies and contribute to innovative solutions.
+
+I like learning new skills, especially technical ones, and I also enjoy fitness. I follow a structured workout routine — it helps me stay disciplined and focused in other parts of my life too.
