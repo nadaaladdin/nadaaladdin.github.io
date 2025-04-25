@@ -10,6 +10,7 @@
 **Master of Science (M.S.) in Computer Engineering**  
 *Jan 2022 - Feb 2025*  
 Jordan University of Science and Technology (JUST)
+
 *Graduated with a GPA of 4.00/4.00, ranked among the top students in my class.*
 
 **Bachelor of Science (B.S.) in Computer Engineering**  
