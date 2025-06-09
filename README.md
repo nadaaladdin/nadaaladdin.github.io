@@ -85,6 +85,9 @@ Developed a multifunctional task management system, which included features such
               
           - Mendix Rapid Application Developer (RAD) Certification:
               Certificate Number: 88123.
+              
+          - IEEE / Certificate of Attendance:
+              The Artificial Intelligence Day(IEEE-Aug2019).
 
 ------------------------------------
 ## 📄 References
