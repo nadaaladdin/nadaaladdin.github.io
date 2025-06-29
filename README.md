@@ -56,7 +56,7 @@ Developed a multifunctional task management system, which included features such
 
   - **Collaborative Paper: Efficient Crash-safe Sorting for Systems with Non-Volatile Main Memory** <br>
         Jordan University of Science and Technology 2022 - 2025 <br>
-        with Batool Kayyam <br>
+        with Batool Al Qayyam <br>
         Status: under review
     
 -------------------------------
