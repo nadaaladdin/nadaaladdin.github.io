@@ -51,7 +51,7 @@ Developed a multifunctional task management system, which included features such
 
   - **Master’s Thesis: Efficient Software-only Recovery Technique for Systems with Non-Volatile Main Memory (ESRA)** <br>
       Jordan University of Science and Technology 2022 - 2025 <br>
-      Supervisor: Dr. Mohammad Alshboul. <br>
+      Supervisor: Dr. Mohammad Alshboul <br>
       Status: under review
 
   - **Collaborative Paper: Efficient Crash-safe Sorting for Systems with Non-Volatile Main Memory** <br>
