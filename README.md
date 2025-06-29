@@ -47,6 +47,19 @@ Developed a multifunctional task management system, which included features such
 • Impact: Aims to reduce medical errors, decrease case fatality rates, and provide peace of mind for both patients and caregivers by ensuring medications are taken as prescribed.
 
 -------------------------------
+## 📝 Research Experience
+
+  - **Master’s Thesis: Efficient Software-only Recovery Technique for Systems with Non-Volatile Main Memory (ESRA)** <br>
+      Jordan University of Science and Technology 2022 - 2025 <br>
+      Supervisor: Dr. Mohammad Alshboul. <br>
+      Status: under review
+
+  - **Collaborative Paper: Efficient Crash-safe Sorting for Systems with Non-Volatile Main Memory** <br>
+        Jordan University of Science and Technology 2022 - 2025 <br>
+        with Batool Kayyam <br>
+        Status: under review
+    
+-------------------------------
 ## 📝 Research Interests
 
 - Non-Volatile Main Memory
