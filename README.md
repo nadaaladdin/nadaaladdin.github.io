@@ -4,7 +4,17 @@
 ## 👋 Hi, I'm Nada!
 
 -------------------------------
+## 📄 Experience 
 
+**Lecturer (Part-time)** <br>
+*Applied Science Private University (ASU)* <br>
+Oct 2025 – Present
+
+**Research Assistant (RA)** <br>
+*Jordan University of Science and Technology (JUST)* <br>
+Jan 2025 – Present
+
+-------------------------------
 ## 🎓 Education
 
 **Master of Science (M.S.) in Computer Engineering**  
