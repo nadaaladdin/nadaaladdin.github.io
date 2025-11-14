@@ -85,7 +85,9 @@ Developed a multifunctional task management system, which included features such
               Embedded Systems, Microcontrollers, FPGA Programming, Computer Architecture.
               
           - Tools and Technologies:
-              GitHub, MATLAB, Visual Studio, Latex.
+              GitHub, MATLAB, Visual Studio, and LaTeX.
+          - Database:
+              SQL.
           
           - Simulation Tools:
               Gem5, ChampSim (Used for research).    
